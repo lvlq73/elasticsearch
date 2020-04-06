@@ -1,15 +1,3 @@
-/***********************************************************************   
- *   
- *   StringUtil   
- *   
- *   @copyright     福建邮科通信
- *   @project-name  jeebms
- *   @creator       kangzhishan
- *   @email         kangzhisan@126.com    
- *   @create-time   2010-8-13 下午05:15:32   
- *   @version         
- ***********************************************************************/
-
 package elasticsearch;
 
 import com.sun.deploy.util.StringUtils;
