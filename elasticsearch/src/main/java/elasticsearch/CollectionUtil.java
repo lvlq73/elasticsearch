@@ -1,21 +1,11 @@
-/***********************************************************************   
- *   
- *   CollectionUtil   
- *   
- *   @copyright     kangzhishan
- *   @project-name  meeting-common
- *   @creator       kangzhishan
- *   @email         kangzhisan@126.com    
- *   @create-time   2013-7-13 ����1:21:27   
- *   @version         
- ***********************************************************************/
-
 package elasticsearch;
 
 import java.util.Collection;
 import java.util.List;
 import java.util.Map;
-
+/**
+* CollectionUtil
+*/
 public class CollectionUtil {
 	
 	/** 
