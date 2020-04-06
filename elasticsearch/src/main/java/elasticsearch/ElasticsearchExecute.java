@@ -28,6 +28,7 @@ import java.util.*;
 
 /**
  * elasticsearch工具类
+ * lvlianqi
  */
 public class ElasticsearchExecute {
     private static Logger logger = LoggerFactory.getLogger(ElasticsearchExecute.class);
