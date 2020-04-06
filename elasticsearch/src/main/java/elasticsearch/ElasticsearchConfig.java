@@ -11,6 +11,7 @@ import java.net.InetAddress;
 import java.util.List;
 /**
  * elasticsearch初始化配置类
+ * lvlianqi
  */
 public class ElasticsearchConfig {
 
